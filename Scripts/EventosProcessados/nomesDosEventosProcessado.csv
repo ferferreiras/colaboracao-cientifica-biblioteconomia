@@ -1,0 +1,246 @@
+idEvento,nome,idEvento_subs,tipo,area
+17,Congresso Latino-Americano de Estudos do Trabalho,,A,Ciências sociais
+162,iConference,,A,CI
+192,Annual Conference International Council for Education Media,,P,Educação
+134,Annual Conference on Distance Teaching & Learning,,P,Educação
+182,Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC),,A/P,Biomedicina
+167,ASIS&T Annual Meeting,,A,CI
+47,Biennial at ISATT Conference,,A/P,Educação
+170,Brazilian Workshop on Social Network Analysis and Mining (BraSNAM),,A,CI
+82,Clute Institute International Conference,,A,Educação
+232,Colóquio Habermas e Colóquio de Filosofia da Informação,,A,CI
+210,Colóquio Internacional da Rede MUSSI,,A,CI
+239,Colóquio Internacional da rede MUSSI,210,A,CI
+220,Conferência de Gestão e Contabilidade Ambiental (GECAMB),,A,Gestão Ambiental
+46,Conferência do Desenvolvimento (CODE),,P,Interdisciplinar
+230,Conferência Ibero-Americana IADIS,,A,Interdisciplinar
+69,CONFERENCIA INTERNACIONAL BIREDIAL-ISTEC,,A/P,Interdisciplinar
+133,Conferencia Internacional de Bibliotecología,,P,CI
+14,"Conferência Internacional de Cinema, Arte, Tecnologia, Comunicação",,P,Cinema
+147,Conferência Internacional EUTIC,,A,CI
+234,Conferência Luso-Brasileira sobre Acesso Aberto (Confoa),,A/P,CI
+128,"Conferência sobre Tecnologia, Cultura e Memória",140,A,CI
+140,"Conferência sobre Tecnologia, Cultura e Memória (CTCM)",,A,CI
+50,"Conferência sobre tecnologia, cultura e memória: estratégias para preservação e acesso à informação",140,A,CI
+153,Congreso Capítulo Español de ISKO,,A,CI
+66,Congreso Iberoamericano de Extensión Universitaria,152,Outros,Genérico
+125,Congreso Internacional de Información (IDICT),202,P,CI
+202,Congreso Internacional de Información (INFO),,P,CI
+157,Congreso Internacional Multidisciplinario en Alfabetización Informativa,,A,CI
+154,"Congreso Internacional Unión Latina de la Economía Política de la Información, la Comunicación y la Cultura (ULEPICC) ",,A,CI
+117,Congreso ISKO España y Portugal,,A,CI
+28,Congreso Latino-Iberoamericano de Gestión Tecnológica,40,A/P,Interdisciplinar
+190,Congreso Latino-Iberoamericano de Gestión Tecnologica,40,A/P,Interdisciplinar
+81,Congreso Latino-Iberoamericano de géstion tecnologica - ALTEC,40,A/P,Interdisciplinar
+152,Congreso Latinoamericano de Extensión Universitária,,Outros,Genérico
+245,Congreso Uruguayo de Sociología,,A,Sociologia
+161,Congreso WAPOR Latinoamérica - Organización Mundial de la Opinión Pública,129,P,Opinião pública
+214,Congresso ANPCONT,,A,Ciências contabeis
+92,"Congresso Anual da Associação Brasileira de Metalurgia, Materiais e Mineração",,P,Engenharia
+126,Congresso Brasileiro de Arquivologia,,P,CI
+143,Congresso Brasileiro de Biblioteconomia e Documentação (CBBD),,P,CI
+139,"Congresso Brasileiro de Biblioteconomia, Documentação e Ciência da Informação",143,P,CI
+11,"Congresso Brasileiro de Biblioteconomia, Documentação e Ciência da Informação (CBBD)",143,P,CI
+212,Congresso Brasileiro de Ciências da Comunicação,,A,Comunicação
+179,Congresso Brasileiro de Educação em Engenharia (COBENGE),,A,Engenharia
+48,Congresso Brasileiro de Educação Especial (CBEE),,A,Educação
+98,Congresso Brasileiro de Ensino Superior a distância ,,A,Educação
+44,Congresso Brasileiro de Gestão de Desenvolvimento de Produto,,A/P,Engenharia
+99,Congresso Brasileiro de Gestão do Conhecimento,,P,Engenharia
+88,Congresso Brasileiro de Nutrição e Congresso Ibero-Americano de Nutrição,,P,Nutrição
+206,Congresso Brasileiro de Organização e Representação do Conhecimento,,A,CI
+7,Congresso Brasileiro de P&D em Design,,A,Design
+18,Congresso Brasileiro de Sociologia,97,A,Sociologia
+97,Congresso Brasileiro de Sociologia (SBS),,A,Sociologia
+84,Congresso da Associação Latino-Iberoamericana de Gestão de Tecnologia,40,A/P,Interdisciplinar
+40,Congresso da Associação Latino-Iberoamericana de Gestão de Tecnologia (ALTEC),,A/P,Interdisciplinar
+217,Congresso da Sociedade Brasileira de Computação (CSBC),,A/P,Computação
+62,Congresso da Sociedade Iberoamericana de Gráfica Digital,,P,Arquitetura
+127,Congresso de Arquivologia do Mercosul,,P,CI
+226,Congresso de Ciências da Comunicação na Região Sudeste,,A,Comunicação
+124,Congresso de Extensão Universitária da UNESP,,Outros,Genérico
+172,Congresso de Gestão de Tecnologia Latino-Iberoamericano (ALTEC),40,A/P,Interdisciplinar
+54,Congresso de Pesquisa e Ensino em Transportes (ANPET),,A,Engenharia
+60,Congresso e Mostra Internacionais SAE BRASIL de Tecnologia da Mobilidade,,P,Engenharia
+136,Congresso Estadual Paulista sobre Formação de Educadores e Congresso Nacional de Formação de Professores,,P,Educação
+68,Congresso Ibero-Americano de Bibliotecas Escolares,244,A/P,CI
+244,Congresso Ibero-Americano de Bibliotecas Escolares (CIBES),,A/P,CI
+191,Congresso Ibero-americano de Comunicação (IBERCOM),,A,Comunicação
+31,Congresso Internacional ABED de Educação a Distância (CIAED),,A,Educação
+20,Congresso Internacional da Associação de Estudos Brasileiros (BRASA),,A,Estudos Brasileiros
+8,Congresso Internacional da Associação Latino-Americana de Sociologia,,A,Sociologia
+15,Congresso Internacional de Comunicação e Consumo (COMUNICON),,A,Comunicação
+130,Congresso Internacional de Design da Informação (CIDI),,A,Design
+151,Congresso Internacional de Gestão da Tecnologia e Sistemas de Informação (CONTECSI),13,A/P,Sistema de informação
+16,Congresso Internacional IBERCOM,191,A,Comunicação
+132,Congresso Internacional TIC e Educação (ticEDUCA) ,,A,Educação
+26,Congresso Internancional -SOTER,,A/P,Saúde
+180,Congresso ISKO Espanha/Portugal,117,A,CI
+80,Congresso Latino Americano de Opinão Pública da WAPOR,129,P,Opinião pública
+56,Congresso Latinoamericano de Filosofia da Educação,,A,Educação
+242,Congresso Luso Afro Brasileiro,,A,Ciências sociais
+35,Congresso Luso-Brasileiro de História da Educação (COLUBHE),,A,Educação
+78,Congresso Luso-Brasileiro de História da Educação (Colubhe),35,A,Educação
+203,Congresso Mundial de Comunicação Ibero-Americana,,A,Comunicação
+144,Congresso Nacional de Arquivologia,,P,CI
+114,"Congresso Nacional de Bibliotecários, Arquivistas e Documentalistas",,P,CI
+34,Congresso Nacional de Educação (EDUCERE),,A,Educação
+4,Congresso Nacional de Formação de Professores,136,P,Educação
+3,Congresso Nacional de Meio Ambiente de Poços de Caldas,,A,Meio Ambiente
+89,Congressos da Associação Brasileira das Instituições de Pesquisa Tecnológica e Inovação (ABIPTI),,P,Interdisciplinar
+5,Convención científica internacional de la universidad de matanzas,,A/P,Genérico
+105,Disaster Management and Human Health Risk,,A,Saúde
+74,EDICIC,131,A,CI
+19,Encontro Anual da ANPOCS,,A,Ciências sociais
+27,Encontro Brasileiro de Bibliometria e Cientometria,181,A,CI
+181,Encontro Brasileiro de Bibliometria e Cientometria (EBBC),,A,CI
+222,Encontro da ANPAD ,,A,Administração
+131,Encontro da Associação de Educação e Investigação em Ciência da Informação da IberoAmérica e Caribe (EDICIC),,A,CI
+233,Encontro de Estudos da Linguagem  (ENELIN),,A,Linguística
+205,"Encontro de Estudos sobre Tecnologia, Ciência e Gestão da Informação (ENEGI)",,A,CI
+121,Encontro de Pesquisa em Informação e Mediação,,A,CI
+174,Encontro Ibèrico EDICIC,228,A,CI
+228,Encontro Ibérico EDICIC,,A,CI
+79,Encontro Iberoamericano de Educação,,A,Educação
+A ,"Encontro Internacional Dados, Tecnologia e Informação",,A,CI
+216,Encontro Internacional de Catalogadores e Encontro Nacional de Catalogadores,,P,CI
+67,Encontro Internacional de Ciências Socias,,A,Ciências sociais
+29,Encontro Internacional de História Colonial,,A,História
+110,"Encontro Internacional de Informação, Conhecimento e Ação",,A,CI
+171,Encontro Internacional sobre Gestão Empresarial e Meio Ambiente (ENGEMA),,A/P,Meio Ambiente
+22,Encontro Nacional da ABET,,A,Ciências sociais
+42,Encontro Nacional de Catalogadores (ENACAT) e Encontro de Estudos e Pesquisas em Catalogação (EEPC),,A/P,CI
+36,Encontro Nacional de Estudos da Imagem e II Encontro Internacional de Estudos da Imagem,,A,Comunicação
+32,Encontro Nacional de Estudos Populacionais,,A,Geografia
+156,Encontro Nacional de História da Mídia,,A,Comunicação
+150,Encontro Nacional de Pesquisa em Ciência e Tecnologia,,A,Engenharia
+111,Encontro Nacional de Pesquisa em Ciência da Informação,10,A,CI
+10,Encontro Nacional de Pesquisa em Ciência da Informação (ENANCIB),,A,CI
+37,Encontro Nacional de Pesquisa em Ciência da Informação (Enancib),10,A,CI
+33,Encontro Nacional de Pesquisadores em Serviço Social (ENPESS),,A,Serviço Social
+165,Encontro Nacional dos Estudantes de Arquivologia,,E,CI
+95,"Encontro Nacional dos Estudantes de Biblioteconomia, Documentação, Ciência e Gestão da Informação (ENEBD)",,E,CI
+208,Encontro Nacional dos Estudantes de Museologia,,E,CI
+141,"Encontro Regional de Estudantes de Biblioteconomia, Documentação, Gestão e Ciência da Informação (EREBD SUL SE CO)",,E,CI
+223,"Encontro Regional dos Estudantes de Biblioteconomia, Documentação, Ciência da Informação e Gestão da Informação (EREBD N NE)",,E,CI
+63,"Encontro Regional dos Estudantes de Biblioteconomia, Documentação, Ciência e Gestão da Informação (EREBD SUL SE CO)",141,E,CI
+236,Encontro virtual de Documentação em Software Livre e Congresso Internacional de Linguagem e Tecnologia online,,A,Interdisciplinar
+108,Encuentro de Catalogación y Metadatos,,P,CI
+115,Encuentro de Directores e Docentes de Escuelas de Bibliotecología y Ciencia de la Información del MERCOSUR,,A,CI
+113,Encuentro Ibérico EDICIC,,A,CI
+109,Encuentro Internacional e  Nacional de Catalogadores,216,P,CI
+169,"Encuentro Latinoamericano de Bibliotecarios, Archivistas y Museólogos",,P,CI
+237,Encuentros Internacionales sobre Sistemas de Información y Documentación (IBERSID),,A,CI
+38,ENEGEP,,A/P,Engenharia
+59,ESOCITE/4S Annual Meeting in Buenos Aires,,A,Interdisciplinar
+65,European Conference on Knowledge Management (ECKM),,A/P,Engenharia
+207,Fórum Brasileiro de Bibliotecas Públicas,,P,CI
+189,Forum de Pesquisa em Biblioteca Escolar,241,A/P,CI
+241,Fórum de Pesquisa em Biblioteca Escolar,,A/P,CI
+243,Fórum sobre Bibliotecas Públicas: serviços de informação e mediação da leitura,207,P,CI
+123,IASTED International Conference on Computers and Advanced Technology in Education (CATE),,A/P,Interdisciplinar
+159,IBIMA Conference,,A,Administração
+149,IFLA WLIC ,178,P,CI
+178,IFLA WLIC,,P,CI
+23,InSEA EUROPEAN CONGRESS - International Society for Education Through Art (INSEA),,A/P,Artes
+197,International Competitive Intelligence Conference,,P,Engenharia
+83,International CINet Conference,,A,Computação
+238,International Conference on Current Research Information Systems,,A,CI
+41,International Conference on Dublin Core & Metadata Applications,164,A,CI
+164,International Conference on Dublin Core and Metadata Applications (DCMI),,A,CI
+148,International Conference on Electronic Publishing,,A/P,CI
+184,International Conference on Human-Computer Interaction,,A,Interdisciplinar
+13,International Conference on Information Systems and Technology Management (CONTECSI),,A/P,Sistema de informação
+72,International Conference on Qualitative and Quantitative Methods in Libraries,,P,CI
+185,International Conference on Science and Technology Indicators,,A/P,Interdisciplinar
+201,International Conference on Scientometrics and Informetrics (ISSI),,A,CI
+218,International Conference on Solid Waste Technology and Management,,A,Engenharia
+195,International Conference on Systems Engineering and Information Technology (INTERTECH),,A,Engenharia
+177,International Conference on Teaching and Learning (ICTL),,A,Educação
+86,International Congress on the Science and Technology of Ironmaking,,A/P,Engenharia
+51,International ISKO Conference,168,A,CI
+168,International ISKO Conference - Knowledge Organization,,A,CI
+224,International Nuclear Atlantic Conference (INAC),,A ,Física
+58,International Product Development Management Conference,,A,Engenharia
+70,International Public Communication of Science and Technology Conference,,A,Interdisciplinar
+91,International Society of Scientometrics and Informetrics Conference (ISSI),201,A,CI
+213,International Symposium on Alcohol Fuels (ISAF),,P,Engenharia
+221,International Symposium on Energy from Biomass and Waste,,A,Engenharia
+176,"International Technology, Education and Environment Conference (TEEC)",,A,Gestão Ambiental
+73,"ISIC, the Information Behaviour Conference",,A,Interdisciplinar
+75,ISKO - Information Society for Knowledge Organization,168,A,CI
+142,ISKO UK -International Society for Knowledge Organization,,A,CI
+219,ISWA World Solid Waste Congress,,P,Engenharia
+209,Jornada Científica Internacional da Rede Mussi,210,A,CI
+155,Jornada Pedagógica Plano Nacional de Educação,,P,Educação
+94,Jornadas de Jóvenes Investigadores AUGM,,A,CI
+175,Jornadas Internacionais de Histórias em Quadrinhos,,A,Comunicação
+76,"Knowledge Generation, Comunication and Management",,A,Interdisciplinar
+116,North American Symposium on Knowledge Organization – NASKO,,A,CI
+199,Congreso de Gestión Cultural,,P,Gestão cultural
+138,Processos de musealização: um Seminário de Investigação Internacional,,P,CI
+193,Programa Benchmarking Ambiental Brasileiro,,P,Gestão Ambiental
+64,Reunião de Antropologia do Mercosul,,A,Ciências sociais
+194,"Safety, Health and Environment World Congress (SHEWC)",,P,Saúde
+45,"Seminário Brasileiro de Ciência, Tecnologia e Sociedade",,A,Interdisciplinar
+71,Seminário Científico Arquivologia e Biblioteconomia,106,A,CI
+119,Seminário Científico Arquivologia e Biblioteconomia: acesso à informação,106,A,CI
+106,Seminário Científico de Arquivologia e Biblioteconomia,,A,CI
+122,Seminário de Competência em Informação: cenários e tendências,,A,CI
+6,Seminário de Didática para o Ensino Superior,,A,Educação
+77,Seminário de Epistemologia e Teorias da Educação,227,A,Educação
+227,Seminário de Epistemologia e Teorias da Educação (EPISTED),,A,Educação
+235,Seminário de Estudos em Análise do Discurso,,A,Linguística
+146,Seminário de Extensão Universitária da FFC - Marília,,A,Genérico
+231,Seminario de investigación en museología de los países de lengua portuguesa y española,,A,CI
+1,Seminário de Pesquisa do Programa de Pós-graduação em Estudos Literários,,A,Estudos literários
+163,Seminário de Pesquisa FESPSP,,A,Genérico
+135,Seminário do Centro de Estudos Linguísticos e Literários do Paraná,,A,Estudos literários
+85,Seminário do Programa de Pós-graduação em Sociologia da UFSCar,,A,Sociologia
+55,Seminário Ecologia Política e Direito na América Latina,,A,Direito
+137,Seminário em Ciência da Informação (SECIN),,A,CI
+120,"Seminário Hispânico-Brasileiro de Pesquisa em Informação, Documentação e Sociedade",,A,CI
+158,"Seminário Hispânico-Brasileiro de Pesquisa em Informação, Documentação e Sociedade e Seminário de Competência em Informação",,A,CI
+101,Seminário Ibero-Americano de aquitetura e documentação,,A,Arquitetura
+187,Seminário IberoAmericano - Arquitetura e Documentação,101,A,Arquitetura
+104,Seminário Internacional Contributos da Psicologia em Contextos Educativos,,A,Psicologia
+160,Seminário Internacional Cultura Material e Patrimônio de C&T,,P,CI
+87,"Seminário Internacional Empírika: Comunicação, Divulgação e Percepção de Ciência e Tecnologia",,A,Comunicação
+215,Seminário Internacional Juventudes e a Nova Cultura do Trabalho,,A,Ciências sociais
+188,Seminário Internacional sobre Documentação do Patrimônio Arquitetônico com o uso de tecnologias digitais,,P,Arquitetura
+9,Seminário Nacional de Bibliotecas Universitárias (SNBU),,P,CI
+61,Seminário Nacional de Documentação do Patrimônio Arquitetônico com o uso das tecnologias digitais,,A,Arquitetura
+12,Seminário Nacional de Documentação e Informação Jurídicas,,P,CI
+96,Seminário Nacional de História da Ciência e da Tecnologia,,A,Interdisciplinar
+112,Seminário Nacional do Centro de Memória,,A,Sociologia
+93,Seminário Povos Indígenas e Sustentabilidade: saberes tradicionais e formação acadêmica,,A/P,Ciências sociais
+204,"Seminário Recursos Geológicos, Ambientais e Ordenamento do Território",,P,Geologia
+21,Seminário Regional Nordeste da ABET,,A,Ciências sociais
+225,Seminário Serviços e Informação em Museus,,P,CI
+200,Seminários em Administração- FEA USP,,A,Administração
+240,Simpósio Brasileiro de Informática na Educação,,A/P,Computação
+166,Simpósio da ABCiber,,A,Comunicação
+107,"Simpósio de Administração da Produção, Logística e Operações Internacionais",57,A/P,Engenharia
+57,"Simpósio de Administração da Produção, Logística e Operações Internacionais (SIMPOI)",,A/P,Engenharia
+2,"Simpósio de Desenvolvimento, Tecnologia e Sociedade",,A,Interdisciplinar
+39,SIMPÓSIO DE ENGENHARIA DE PRODUÇÃO,53,A/P,Engenharia
+53,Simpósio de Engenharia de Produção (SIMPEP),,A/P,Engenharia
+90,SIMPÓSIO DE ENGENHARIA DE PRODUÇÃO (SIMPEP),53,A/P,Engenharia
+173,Simpósio de Gestão da Inovação Tecnológica,,A,Administração
+211,Simposio de RITerm,,A,Linguística
+25,Simpósio dos Profissionais da UNICAMP,,G,Genérico
+102,Simpósio Internacional de Educação a Distância,,A,Educação
+186,Simpósio Internacional de Gestão de Projetos ( SINGEP) e  Simpósio Internacional de Inovação e Sustentabilidade (S2IS),,A/P,Engenharia
+52,"Simpósio Linguagens e Identidades da/na Amazônia Sul-Ocidental/ e Colóquio Internacional 'As Amazônias, as Áfricas e as Áfricas na Pan-Amazônia'",,A,Letras
+24,Simpósio nacional da ANPUH,,A,História
+49,"Simpósio Nacional de Ciência, Tecnologia e Sociedade",43,A,Interdisciplinar
+43,Simpósio Nacional de Tecnologia e Sociedade,,A,Interdisciplinar
+100,Society for the Advancement of Socio-Economics (SASE),,A,Interdisciplinar
+183,SPIE Medical Imaging,,A,Física médica
+229,Technology Innovation and Industrial Management,,A,Engenharia
+118,Workshop de Pesquisa em Ciência da Informação (WPCI),,A,CI
+145,Workshop de Pesquisa em Informação e Mediação,121,A,CI
+198,Workshop sobre Aspectos da Interação Humano-Computador para a Web Social,,A,Computação
+129,World Association for Public Opinion Research Annual Conference,,P,Opinião pública
+30,World Congress on Communication and Arts,196,P,Artes/Comunicação
+196,World Congress on Communication and Arts (WCCA),,P,Artes/Comunicação
